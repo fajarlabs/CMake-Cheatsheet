@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/SampleRestapi.dir/src/main.cc.o -o SampleRestapi 

@@ -1,0 +1,4 @@
+/home/fajar/Documents/KONTEN-2022/belajar-cmake/build/CMakeFiles/LibraryKu.dir
+/home/fajar/Documents/KONTEN-2022/belajar-cmake/build/CMakeFiles/belajar.dir
+/home/fajar/Documents/KONTEN-2022/belajar-cmake/build/CMakeFiles/edit_cache.dir
+/home/fajar/Documents/KONTEN-2022/belajar-cmake/build/CMakeFiles/rebuild_cache.dir

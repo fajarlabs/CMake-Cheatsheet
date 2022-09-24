@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/belajar.dir/src/Main.cc.o -o belajar  libLibraryKu.a 

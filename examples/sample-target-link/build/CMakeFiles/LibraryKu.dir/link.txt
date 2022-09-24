@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLibraryKu.a CMakeFiles/LibraryKu.dir/src/Hello.cc.o
+/usr/bin/ranlib libLibraryKu.a

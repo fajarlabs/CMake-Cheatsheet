@@ -1,0 +1,3 @@
+/home/fajar/Documents/KONTEN-2022/belajar-cmake/opencv_test/cmake-sample/CMake-Cheatsheet/examples/example-opencv/build/CMakeFiles/opencvTest.dir
+/home/fajar/Documents/KONTEN-2022/belajar-cmake/opencv_test/cmake-sample/CMake-Cheatsheet/examples/example-opencv/build/CMakeFiles/edit_cache.dir
+/home/fajar/Documents/KONTEN-2022/belajar-cmake/opencv_test/cmake-sample/CMake-Cheatsheet/examples/example-opencv/build/CMakeFiles/rebuild_cache.dir
